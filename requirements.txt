@@ -1,0 +1,6 @@
+dash
+pandas
+python-dotenv
+supabase
+dash-bootstrap-components
+gunicorn
